@@ -64,8 +64,8 @@
 ![TypeofML](http://solarisailab.com/wp-content/uploads/2017/06/supervsied_unsupervised_reinforcement.jpg)
 
 ## 지도 학습 (Supervised Learning)
-지도학습은 <u>데이터에 대한 레이블(label : 명시적인 정답)이 주어진 상태</u>에서 컴퓨터를 학습시키는 방법이다. 
-즉, (데이터 : 레이블) 형태로 학습을 진행하는 방법이다. 이 때, 예측하는 결과값이 <u>이산 값(Discrete value)</u>이면 <u>분류(Classification)</u> 문제이고, 예측하는 결과값이 <u>연속 값(Continuous Value)</u>이면 <u>회귀(Regression)</u> 문제이다. 
+지도학습은 <u>데이터에 대한 레이블(label : 명시적인 정답)이 주어진 상태</u>에서 컴퓨터를 학습시키는 방법이다.
+즉, (데이터 : 레이블) 형태로 학습을 진행하는 방법이다. 이 때, 예측하는 결과값이 <u>이산 값(Discrete value)</u>이면 <u>분류(Classification)</u> 문제이고, 예측하는 결과값이 <u>연속 값(Continuous Value)</u>이면 <u>회귀(Regression)</u> 문제이다.
 
 > 예시
     > 이산값 : 예상되는 숫자가 1인가 2인가?
@@ -102,15 +102,15 @@
 ### 4. Sequence Prediction
 > Sequence prediction is a problem that involves using historical sequence information to predict the next value or values in the sequence. The sequence may be symbols like letters in a sentence or real values like those in a time series of prices.
 
-시퀀스 예측이란 기록 시퀀스 정보를 사용하여 시퀀스 내의 다음 값이나 값을 예측하는 것과 관련된 문제다. 
+시퀀스 예측이란 기록 시퀀스 정보를 사용하여 시퀀스 내의 다음 값이나 값을 예측하는 것과 관련된 문제다.
 ![sequenceprediction](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/Many-to-Many-Sequence-Prediction-Model-1.png)
 
 ---
 
-## Kind of Bias 
+## Kind of Bias
 
 ### 1. Interaction Bias
-사용자는 알고리즘과 상호작용하는 방식으로 bias를 갖는다. 
+사용자는 알고리즘과 상호작용하는 방식으로 bias를 갖는다.
 (예) 신발 그려 -> 남자신발만 그림 -> 하이힐은 신발이라는 것을 모름
 
 ### 2. Latent Bias
@@ -126,3 +126,7 @@
 - <http://solarisailab.com/archives/1785>
 - <https://machinelearningmastery.com/models-sequence-prediction-recurrent-neural-networks/>
 - <https://qz.com/1064035/google-goog-explains-how-artificial-intelligence-becomes-biased-against-women-and-minorities/>
+
+---
+ㅋㅋㅋㅋ
+인공지능스터디
